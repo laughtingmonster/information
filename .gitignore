@@ -1,2 +1,3 @@
-/home/python/Desktop/flaskproject/.idea/
-*.*
+*.py[cod]
+.idea/
+.xml
